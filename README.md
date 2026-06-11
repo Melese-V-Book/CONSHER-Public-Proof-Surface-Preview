@@ -80,12 +80,14 @@ Do not read it as advice, approval, validation, site guidance, public-safety gui
 
 ## Current authorization status
 
-Public exposure is not authorized.
+This repository is a bounded static public proof-surface preview for limited external inspectability.
+
+Limited external visibility is active with limits.
 
 Public release is not authorized.
 
-GitHub publication is not authorized.
-
 LinkedIn announcement is not authorized.
 
-This package is only a public-exposure candidate manifest and final public-safe package review set for later review.
+Operational use, implementation, deployment, certification readiness, expert validation, stakeholder endorsement, heritage conservation advice, visitor guidance, public-safety instruction, and production-substrate status are not authorized.
+
+This repository may be read only as a bounded proof-surface demonstration showing boundary behavior: what was admitted, refused, downgraded, blocked, kept non-binding, and prevented from becoming consequence-bearing.
